@@ -1,5 +1,5 @@
 # Law-GPT
-This repository contains the code for a chatbot using `Langchain` and backed by `Llama-7B-chat` by `Meta` using `Huggingface` and `Chainlit` for frontend UI.
+This repository contains the code for a chatbot using `Langchain` and backed by `Llama-7B-chat` by `Meta` using `Huggingface` and `Streamlit` for frontend UI.
 
 ## Table of Contents
 1. [Installation](#installation)
